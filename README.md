@@ -1,2 +1,2 @@
-# SystematicDashboard
-Code for a dashboard that helps users develop systematic trading strategies in crude oil futures
+# Oil Macro Systematic Strategies Dashboard
+This dashboard is meant to assist the user in backtesting and trading systematic strategies in crude oil futures. The dashboard allows the user to build their own signals off of either futures price data or data pulled from FRED, which will be updated daily. A family of strategies is available for users to construct from their chosen signals. From here, a dashboard is provided which can be used to study how strategies can be combined, assess their historic risk and return, and track their performance over time. Finally, net positioning across the futures curve is tracked to assist the user in trading their strategies. This sheet is "live" and updates daily it uses a Google Cloud Function Backend combined with Google Apps Script.## 
