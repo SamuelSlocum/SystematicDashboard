@@ -11,4 +11,4 @@ This page allows the user to take computed signals and combine them with trading
 This is where the user can pull in the avaialble signals for trading. Provided here are baseline signals including the price-level, which could be used in momentum strategies, as well as carry. Also included is a leading indicator index, formed in the page "Leading Indicators". This is composed of several forward-looking macroeconomic indicators.
 ### Leading Indicators
 This page showcases the sheet's ability to pull in data from FRED in order to construct trading signals. In this case, a set of variables that are thought to be leading indicators of the business cycle are provided. All of the variables are point-in-time, meaning they reflect information that would actually be tradeable on a given date. The calls to FRED are managed by Google Cloud functions "PullFredEconData" and "PullFredFinanceData".
-## Decription of Code Repository
+## Description of Code Repository
