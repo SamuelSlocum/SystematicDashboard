@@ -1,5 +1,5 @@
 # Oil Macro Systematic Strategies Dashboard
-This dashboard is infrastructure meant to assist the user in backtesting and trading systematic strategies in crude oil futures.\
+This dashboard is infrastructure meant to assist the user in backtesting and trading systematic strategies in crude oil futures. It also contains sample trading strategies and is updated automatically ona daily basis. \
 \
 [DASHBOARD](https://docs.google.com/spreadsheets/d/1L342Ry5Iw-goGuJmwBVkNn1u6UZRKCzwKGlgyMtq6Ak/edit?gid=1875174327#gid=1875174327)\
 [DEMO VIDEO -- creating a trading strategy](https://drive.google.com/file/d/1QN9YQprK8I1zcx8Q_GoD4n3zMW-dYMKs/view)\
