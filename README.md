@@ -1,10 +1,10 @@
 # Oil Macro Systematic Strategies Dashboard
-This dashboard is infrastructure meant to assist the user in backtesting and trading systematic strategies in crude oil futures. It also contains sample trading strategies and is updated automatically ona daily basis. \
+This dashboard is infrastructure meant to assist the user in backtesting and trading systematic strategies in crude oil futures. It also contains sample trading strategies and is updated automatically on a daily basis. \
 \
 [DASHBOARD](https://docs.google.com/spreadsheets/d/1L342Ry5Iw-goGuJmwBVkNn1u6UZRKCzwKGlgyMtq6Ak/edit?gid=1875174327#gid=1875174327)\
 [DEMO VIDEO -- creating a trading strategy](https://drive.google.com/file/d/1QN9YQprK8I1zcx8Q_GoD4n3zMW-dYMKs/view)\
 \
-The dashboard allows the user to build their own signals off of either futures price data or data pulled from FRED, which will be updated daily. A family of strategies is available for users to construct from their chosen signals. From here, a dashboard is provided which can be used to study how strategies can be combined, assess their historic risk and return, and track their performance over time. Finally, net positioning across the futures curve is tracked to assist the user in trading their strategies. This sheet is "live" and updates daily it uses a Google Cloud Function Backend combined with Google Apps Script. Example strategies are provided in the dashboard
+The dashboard allows the user to build their own signals off of either futures price data or data pulled from FRED, which will be updated daily. A family of strategies is available for users to construct from their chosen signals. From here, a dashboard is provided which can be used to study how strategies can be combined, assess their historic risk and return, and track their performance over time. Finally, net positioning across the futures curve is tracked to assist the user in trading their strategies. This sheet is "live" and updates daily it uses a Google Cloud Function Backend combined with Google Apps Script. Example strategies are provided in the dashboard.
 
 ## Description of Components
 ### Dashboard
